@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-02-15 07:41:15 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 07:46:21 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 07:55:50 --> 404 Page Not Found --> +base_url+
+ERROR - 2012-02-15 08:37:52 --> 404 Page Not Found --> sinopsis
+ERROR - 2012-02-15 08:56:41 --> 404 Page Not Found --> jadwalacara/publishdata/1
+ERROR - 2012-02-15 08:57:28 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 08:57:29 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 08:57:29 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 08:57:34 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 09:06:50 --> 404 Page Not Found --> sinopsis
+ERROR - 2012-02-15 09:22:35 --> 404 Page Not Found --> jadwalacara
+ERROR - 2012-02-15 09:27:18 --> 404 Page Not Found --> jadwalacara/json/2012/02/01
+ERROR - 2012-02-15 09:30:48 --> 404 Page Not Found --> jadwalacara/publishdata/1
+ERROR - 2012-02-15 09:33:30 --> 404 Page Not Found --> jadwalacara/publishdata/1
+ERROR - 2012-02-15 09:35:23 --> 404 Page Not Found --> jadwalacara/jsonpreview/2012-02-15/
+ERROR - 2012-02-15 09:43:44 --> 404 Page Not Found --> jadwalacara/jsonslidein/2012-02-15
+ERROR - 2012-02-15 09:47:34 --> 404 Page Not Found --> ccms/
+ERROR - 2012-02-15 09:47:43 --> 404 Page Not Found --> sinopsis
+ERROR - 2012-02-15 10:10:00 --> 404 Page Not Found --> video/jsonitem/Ng==/
+ERROR - 2012-02-15 10:12:48 --> 404 Page Not Found --> video/jsonitem/NQ==/

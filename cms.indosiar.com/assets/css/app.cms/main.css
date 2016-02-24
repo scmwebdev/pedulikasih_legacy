@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+form {
+	margin:0px;
+	padding:0px;
+}
+
+#header-component-element div.title {
+	font-size:17px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	color:#000000;
+}
+
+#header-component-element div.login-logout,
+#header-component-element div.login-border, 
+#header-component-element div.items, 
+#header-component-element div.login-info {
+	float:right;
+}
+
+#header-component-element div.items {
+	margin-right:5px;
+}
+
+#header-component-element div.login-border, 
+#header-component-element div.login-info {
+	margin-right:5px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+#header-component-element div.login-info span {
+	font-weight:bold;
+	color:#FF0000;
+}
+
+#header-component-element div.login-logout input.logout {
+	background:transparant;
+	background-image:url(../../images/icons/logout.png);
+	background-repeat:no-repeat;
+	height:15px;
+	width:15px;
+	border:none;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.disable-text {
+	background-color:#cccc
+}
+
+#cssreports .modify-column-header {
+	cursor:default;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+	font: normal 11px tahoma, arial, verdana, sans-serif;
+	background-image: none;
+	background-color: #C5C5C5;
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #f9f9f9), color-stop(100%, #e3e4e6));
+	background-image: -webkit-linear-gradient(top, #f9f9f9,#e3e4e6);
+	background-image: -moz-linear-gradient(top, #f9f9f9,#e3e4e6);
+	background-image: -o-linear-gradient(top, #f9f9f9,#e3e4e6);
+	background-image: -ms-linear-gradient(top, #f9f9f9,#e3e4e6);
+	background-image: linear-gradient(top, #f9f9f9,#e3e4e6);
+}
+
+#cssreports .modify-column-header td{
+	padding: 6px;;
+	border-right: 1px solid #C5C5C5;
+	border-left: 0 none;
+	border-top: 1px solid #C5C5C5;
+	border-bottom: 1px solid #C5C5C5;
+}
+
+#cssreports .modify-column-header td.first{
+	border-left: 1px solid #C5C5C5;
+}
+

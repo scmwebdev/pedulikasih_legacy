@@ -1,0 +1,140 @@
+.module_cms {
+	background:transparant;
+	background-image:url(../../images/icons/cms1.png);
+	background-repeat:no-repeat;
+}
+
+.module_struo {
+	background:transparant;
+	background-image:url(../../images/icons/chart_bar.png);
+	background-repeat:no-repeat;
+}
+
+.module_report {
+	background:transparant;
+	background-image:url(../../images/icons/grid.png);
+	background-repeat:no-repeat;
+}
+
+.toolbar_btnsearch {
+	background:transparant;
+	background-image:url(../../images/icons/search_16.png);
+	background-repeat:no-repeat;
+}
+
+.toolbar_btnrefresh {
+	background:transparant;
+	background-image:url(../../images/icons/refresh-icon.png);
+	background-repeat:no-repeat;
+}
+
+.toolbar_btndelete {
+	background:transparant;
+	background-image:url(../../images/icons/cross.gif);
+	background-repeat:no-repeat;
+}
+
+.mypreeloader_light {
+	background:transparant;
+	background-image:url(../../images/wpspin_light.gif);
+	background-repeat:no-repeat;
+}
+
+.toolbar_menu {
+	background:transparant;
+	background-image:url(../../images/icons/layout_content.png);
+	background-repeat:no-repeat;
+}
+
+.user_groups {
+	background:transparant;
+	background-image:url(../../images/icons/group.png);
+	background-repeat:no-repeat;
+}
+
+.user_accounts {
+	background:transparant;
+	background-image:url(../../images/icons/user_add.png);
+	background-repeat:no-repeat;
+}
+
+.users {
+	background:transparant;
+	background-image:url(../../images/icons/user.png);
+	background-repeat:no-repeat;
+}
+
+.home1{
+	background:transparant;
+	background-image:url(../../images/icons/go_home.png);
+	background-repeat:no-repeat;
+}
+
+.home2{
+	background:transparant;
+	background-image:url(../../images/icons/home_2.png);
+	background-repeat:no-repeat;
+}
+
+.grid{
+	background:transparant;
+	background-image:url(../../images/icons/grid.png);
+	background-repeat:no-repeat;
+}
+
+.add{
+	background:transparant;
+	background-image:url(../../images/icons/add.png);
+	background-repeat:no-repeat;
+}
+
+.keys{
+	background:transparant;
+	background-image:url(../../images/icons/icon_key.gif);
+	background-repeat:no-repeat;
+}
+
+.cog{
+	background:transparant;
+	background-image:url(../../images/icons/cog.png);
+	background-repeat:no-repeat;
+}
+
+.help{
+	background:transparant;
+	background-image:url(../../images/icons/help.png);
+	background-repeat:no-repeat;
+}
+
+.cog_edit{
+	background:transparant;
+	background-image:url(../../images/icons/cog_edit.png);
+	background-repeat:no-repeat;
+}
+
+.app_view{
+	background:transparant;
+	background-image:url(../../images/icons/application_view_list.png);
+	background-repeat:no-repeat;
+}
+
+.excel{
+	background:transparant;
+	background-image:url(../../images/icons/icon-excel.png);
+	background-repeat:no-repeat;
+}
+
+.thevoiceindonesia{
+	background:transparant;
+	background-image:url(../../images/icons/thevoiceindonesia.png);
+	background-repeat:no-repeat;
+}
+
+/* ------------ ACTION COLUMN -------------- */
+.x-action-col-cell img.set-publish {
+    background-image: url(../../images/icons/accept.png);
+}
+
+.x-action-col-cell img.set-unpublish {
+    background-image: url(../../images/icons/delete.png);
+}
