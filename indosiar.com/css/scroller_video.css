@@ -1,0 +1,136 @@
+
+#screen{
+position:relative;
+height:350px;
+width:550px;
+margin-top:5px;
+margin-bottom:5px;
+}
+#screen .next, #screen .prev{
+position:absolute;
+top:10px;
+}
+#screen .prev{
+left:10px;
+}
+#screen .next{
+right:10px;
+}
+#navigation{
+width:600px;
+text-align:center;
+margin-left:62px;
+}
+#navigation ul{
+margin-left:55px !important;
+margin-left:35px;
+}
+#navigation li{
+float:left;
+margin:0 20px;
+padding:10px 20px;
+background-color:#EEE;
+}
+#navigation a{
+color:#933;
+font-weight:bolder;
+text-decoration:none;
+}
+
+#sections{
+overflow:hidden;
+background-color:white;
+width:430px;
+height:450px;
+clear:left;
+margin-left:10px; 
+}
+
+#sections ul{
+width:400px;
+}
+
+#sections li{
+float:left;
+padding:5px 5px;
+}
+#sections li.fallen{
+margin-top:369px;
+}
+
+#sections p{
+width:400px;
+margin:16px 0;
+font-size:85%;
+line-height:1.4em;
+}
+
+#sections h2{
+color:#993333;
+margin:20px 0pt;
+}
+#sections a{
+color:#777;
+font-weight:bolder;
+text-decoration:none;
+}
+
+#screen2{
+position:relative;
+width:500px;
+margin:20px;
+}
+#screen2 #buttons{
+border:1px solid #777;
+margin-bottom:5px;
+width:500px;
+}
+
+#screen2 #buttons a{
+margin:10px 10px;
+color:#69C;
+}
+#screen2 .prev{
+float:left;
+}
+#screen2 .next{
+float:right;
+}
+
+
+#links{
+position:absolute;
+right:5px;
+border:1px solid #777;
+width:210px;
+top:15px;
+padding:10px;
+}
+#links h3{
+color:#777;
+}
+#links ul{
+padding: 8px 0 3px 20px;
+}
+#links li{
+list-style-type:circle;
+}
+#links a{
+color:#69C;
+}
+h1{
+margin:20px 0;
+color:#5B739C;
+}
+h1 strong{
+font-size:13px;
+color:#777;
+}
+.clear{
+clear:both;
+width:0;
+height:0;
+}
+
+25px;
+}

@@ -1,0 +1,71 @@
+body, td {
+	text-decoration: none; font-family: Verdana,Arial,Helvetica; font-size: 11px; color: #000000;
+	SCROLLBAR-FACE-COLOR: #DEDFE7;
+	SCROLLBAR-HIGHLIGHT-COLOR: #cccccc; 
+	SCROLLBAR-SHADOW-COLOR: #cccccc; 
+	SCROLLBAR-3DLIGHT-COLOR: #cccccc; 
+	SCROLLBAR-ARROW-COLOR: #666666;
+	SCROLLBAR-TRACK-COLOR:#FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #666666;
+	SCROLLBAR-BASE-COLOR: #DEDFE7;
+}
+
+INPUT, TEXTAREA, SUBMIT, SELECT {
+	font-family: Verdana,Arial,Helvetica;
+	font-size: 11px;
+	border:1 solid #999999;
+	background-color: #CCCCCC;
+}
+
+a:active {
+	text-decoration: none; color: #FF6600;
+}
+
+a:visited {
+	text-decoration: none; color: #FF6600;
+}
+
+a:link {
+	text-decoration: none; color: #FF6600;
+}
+
+a:hover {
+	text-decoration: none; color: #000000;
+}
+
+.menu {
+	color: #003366;
+	font-size: 11px;
+}
+
+.menu:link {
+	text-decoration: none; color: #003366;
+}
+
+.menu:active {
+	text-decoration: none; color: #003366;
+}
+
+.menu:visited {
+	text-decoration: none; color: #003366;
+}
+
+.menu:hover {
+	text-decoration: none; color: #FF6600;
+}
+
+
+.c {
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+.k {
+	font-size: 11px;
+	color: #003366;
+}
+
+.tgl {
+	font-size: 10px;
+	color: #003366;
+}

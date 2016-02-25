@@ -1,0 +1,198 @@
+body {
+	background:#f2f2f2 url(/img/v9-bg.gif) repeat-x top;
+	font-size:12px; 
+	font-family: Lucida Grande, Verdana, Sans-serif;
+	color:#333;
+	margin:0px;
+	padding:0px;
+}
+
+a {
+	color: #0060B8;
+	background-color: transparent;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+h1 {font:bold 24px Lucida Sans,Lucida Grande,Trebuchet MS;letter-spacing:-2px;color:#000;margin:0;padding:0;}
+
+.header {
+	margin:0 auto;
+	width:940px;
+	height:128px;
+	/*background:url(/img/v9-header.gif) no-repeat;*/
+	background:url(/img/bg-head-2013.jpg) no-repeat;
+	clear:both;
+}
+.header a {color:#1F76B9;font-weight:bold;}
+.header a:hover {color:#000;font-weight:bold;}
+
+.header-menu {
+	margin:0 auto;
+	width:920px;
+	background:#D7E5F0;
+	padding:10px;
+	clear:both;
+	font-size:11px;
+}
+.header-menu a {color:#000}
+.header-menu a:hover {color:#000}
+.header-menu-other a {color:#2E7914}
+
+.footer {
+	margin:0 auto;
+	width:920px;
+	padding:20px 10px;
+	background:#525252;
+	clear:both;
+	text-align:right;
+	color:#fff;
+	font-size:11px;
+}
+.footer a {color:#4D9AD5;}
+.footer a:hover {color:#fff;}
+
+.container {
+	margin:0 auto;
+	width:920px;
+	clear:both;
+	padding:10px;
+	background:#fff;
+}
+
+.SubHeader {
+	height:180px;
+	background:#060815;
+}
+
+.SubHeader-BoxM {
+	height:100%;
+	position:relative;
+}
+
+.SubHeader-Box {
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:#fff;
+	padding:10px 5px;
+	width:100%;
+	filter:alpha(opacity=75);-moz-opacity:.75;opacity:.75; 
+}
+
+.SubHeader-Judul {
+	font-weight:bold;
+	color:#000;
+}
+
+.SubHeader-Isi {
+	color:#000;
+	font-size:16px;
+}
+
+.content-container {float:left;width:600px;}
+.side-container {float:right;width:300px;}
+
+.FloatArtikelDetail h2, .side-container h3 {margin:0 0 5px;padding:0;font-size:12px;color:#000;font-weight:bold;}
+.FloatArtikelDetail ul, .side-container ul {padding:0;margin:0;}
+.FloatArtikelDetail ul li, .side-container ul li {list-style-type:none;padding:3px 0;border-top:1px dashed #ccc;font-size:11px;}
+
+.ContentJenisList {margin-bottom:15px;padding:10px;background:#efefef;} 
+.ContentJenisList h2 {margin:0 0 5px;padding:0;}
+
+.JenisList {font-size:11px;color:#000;font-weight:bold;text-transform:uppercase;}
+.SubJudulList {font-size:11px;color:#666;font-weight:bold;}
+.tgl {font-size:10px;}
+.TglTayang {font-size:10px;}
+.JudulKanal {font:bold 24px Lucida Sans,Lucida Grande,Trebuchet MS;letter-spacing:-2px;color:#B6B6B6;}
+.JudulSmall {font-size:11px};
+
+.JenisArtikel {font:bold 18px Lucida Sans,Lucida Grande,Trebuchet MS;letter-spacing:-1px;color:#fff;background:#CFCFCF;padding:5px 10px;margin-bottom:10px;}
+.JudulArtikel, .content-container h1, .container h1 {font:bold 24px Lucida Sans,Lucida Grande,Trebuchet MS;letter-spacing:-2px;color:#000;margin:0;padding:0;}
+.JudulArtikelList {font:bold 18px Lucida Sans,Lucida Grande,Trebuchet MS;letter-spacing:-1px;color:#333;}
+.JudulArtikelList a {color:#333;}
+.JudulArtikelList a:hover {color:#0060B8;}
+.SubJudulArtikel {color:#666;font-weight:bold;}
+.SubJudulArtikelList {color:#666;font-weight:bold;}
+
+.FloatArtikelDetail {background:#E9E9E9;padding:10px;float:left;width:220px;margin-right:10px;margin-bottom:10px;}
+
+.ListJudul01 {}
+.ListJudul01 a {display:block;padding:5px 0;border-top:1px dashed #ccc;}
+.ListJudul01 a:hover {padding:5px;background:#efefef;}
+
+.ListHomeJudul {}
+.ListHomeJudul ul{margin:0px;padding:0px;list-style-type:none;}
+.ListHomeJudul ul li{margin:0px;padding:0px;}
+.ListHomeJudul li{margin:0px;padding:0px;}
+.ListHomeJudul li a{display:block;padding:5px 0;font-weight:bold;border-bottom:1px dashed #ccc;}
+.ListHomeJudul li a:hover{padding:5px;background:#efefef;}
+
+
+.ListJudul02 {font-size:10px;font-weight:bold;padding:5px 0;border-bottom:1px dashed #B6B6B6;}
+.ListJudul02 a, .ListJudul02 a:hover {font-weight:normal;font-size:11px;}
+
+.QuickLinkList {text-transform:uppercase;font-size:10px;}
+.QuickLinkList a {color:#000;display:block;border-bottom:1px dashed #B6B6B6;padding:3px 0;}
+.QuickLinkList a:hover {background:#CFCFCF;padding:3px 5px;}
+
+.footLinkList{}
+.footLinkList h3{padding:10px 0 0 0;margin:0px;font-size:12px;font-weight:bold}
+.footLinkList ul{margin:0px 0px 0px 10px;padding:0px;list-style-type:none;}
+.footLinkList ul li{margin:0px;padding:0px;}
+.footLinkList li{margin:0px;padding:0px;}
+.footLinkList li a{display:block;margin:0px;padding:3px 0;text-decoration:none;border-bottom:1px dashed #B6B6B6;text-transform:uppercase;font-size:10px;}
+.footLinkList li a:hover{margin:0;background:#CFCFCF;padding:3px 5px;}
+
+.tag1 {font-size:10px;}
+.tag2 {font-size:10px;font-weight:bold}
+.tag3 {font-size:12px;}
+.tag4 {font-size:12px;font-weight:bold}
+.tag5 {font-size:14px;}
+.tag1 a, .tag2 a, .tag3 a, .tag4 a, .tag5 a {color:#333}
+.tag1 a:hover, .tag2 a:hover, .tag3 a:hover, .tag4 a:hover, .tag5 a:hover {color:#0060B8}
+
+.paging {clear:both;margin-top:20px;padding:5px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#000;font-weight:bold;text-align:center;}
+.paging a {padding:4px 5px;margin:0px 1px;border:1px solid #333;background:#efefef;color:#333;text-decoration:none;}
+.paging a:hover {border:1px solid #ccc;background:#F19323;color:#FFFFFF;text-decoration:none;}
+
+/*search form*/
+#search_form{width:210px;float:right;margin:2px 15px 0 0;_margin:2px 10px 0 0;}
+#bt_ok{width:21px;height:19px;margin:0 0 0 5px;float:right;}
+#search_form #keyword{background-image:url(/img/search_input.gif);width:156px;height:14px; border:0;font-size: 1em;font-family: 'Trebuchet MS','Lucida Grande';padding:1px 4px 3px 4px;_padding:1px 4px 3px 4px;_height:14px;!padding:1px 4px 3px 4px;!height:14px;margin:1px 0 0 15px;float:right;}
+
+#headerbanner {
+	width:100%;
+	top:0px;
+	margin-top:0px;
+	height:50px;
+	position:fixed;
+	z-index:99;
+	right:0;
+	_position:absolute;
+	_top:expression(document.body.scrollTop+document.body.clientHeight-this.clientHeight);
+}
+html>body #headerbanner {margin-top:0px;top:0}
+
+#footerbanner {
+	width: 100%;
+	bottom: 0px;
+	margin-bottom: 0px;
+	height: 62px;
+	position: fixed;
+	z-index: 99;
+	right: 0;
+	_position:absolute;
+	_top:expression(document.body.scrollTop+document.body.clientHeight-this.clientHeight);
+}
+html>body #footerbanner { margin-bottom: 0px; bottom: 0 }
+
+.commentlistbox{font-size: 11px;margin-bottom: 14px;overflow: hidden;background: #efefef;padding: 5px;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;-webkit-box-shadow: 1px 1px 1px 0 #666;-moz-box-shadow: 1px 1px 1px 0 #666;box-shadow: 1px 1px 1px 0 #666;}
+.commentlistbox cite {margin-top: 5px;padding: 5px 5px 0 5px;display: block;font-style: normal;font-size: 11px;border-top: 1px solid #DDD;}
+.commentlistbox .author {font: small-caps bold Georgia, "Times New Roman", Times, serif;text-decoration: underline;}
+.commentlistbox .time {font: small-caps bold Georgia, "Times New Roman", Times, serif}
