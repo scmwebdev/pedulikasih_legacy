@@ -1,0 +1,64 @@
+<!--#include file="../backend/dbcon.asp"-->
+			<div style="width:240px;float:left;margin-right:10px;">
+<%
+set conn=server.createobject("adodb.connection")
+conn.open dbcon
+
+set rst = server.createobject("ADODB.recordset")
+rst.open "select top 3 id,image,judul,keterangan,file_flv from tbl_video order by id desc",conn,1,2
+if not rst.eof then
+	i = 1
+	do
+		if i = 1 then
+%>
+				<div id="mediaspace"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+				<script type="text/javascript" src="<?=URL_ROOT?>swf/jw/swfobject.js"></script>        
+				<script type="text/javascript">
+				var so = new SWFObject('<?=URL_ROOT?>swf/jw/mediaplayer.swf','mpl','240','200','8');
+					so.addParam('wmode','transparent');
+					so.addParam('allowscriptaccess','always');
+					so.addParam('allowfullscreen','true');
+					so.addVariable("enablejs", "true");
+					so.addVariable('width','240');
+					so.addVariable('height','200');
+					so.addVariable('showstop','true');
+					so.addVariable('searchbar','false');
+					so.addVariable('file','http://www.indosiar.com/v7/video-from-you/video/<%=rst("file_flv")%>');
+					so.addVariable('image','&image=http://www.indosiar.com/v7/video-from-you/images/video_kiss.jpg&');
+					so.addVariable('logo','');
+					//so.addVariable('displayheight','250');
+					so.addVariable('recommendations','http://www.indosiar.com/v7/video-from-you/recommendations_xml_kiss.htm');
+					so.addVariable('linktarget','_self');
+					so.addVariable('backcolor','0x998989');
+					so.addVariable('frontcolor','0x333333');
+					so.addVariable('lightcolor','0x000000');
+					so.addVariable('midroll','350');
+					so.write('mediaspace');
+				</script>
+			</div>
+			<div style="width:248px;float:left;" class="w11">
+				<div><img src="/img/logo_videofiesta.jpg" width="150" height="50" border="0"></div>
+				<a href="http://www.indosiar.com/v7/video-from-you/read.htm/id=<%=rst("id")%>/<%=replace(trim(lcase(rst("judul")))," ","-")%>" title="<%=rst("judul")%>" class="JudulListFront"><%=rst("judul")%></a> - <%=rst("keterangan")%>
+				<br /><b>Video Fiesta Lainnya:</b>
+				<ul style="margin:0 0 1em;padding:0;">
+<%		
+		else 
+%>
+			
+					<li style="margin:0 0 0 0px;padding:0 0 0px 10px;line-height:1.5em;list-style:none;background:url(http://www.lautanindonesia.com/img/arrow_gray.gif) no-repeat 0 .5em;"><a href="http://www.indosiar.com/v7/video-from-you/read.htm/id=<%=rst("id")%>/<%=replace(trim(lcase(rst("judul")))," ","-")%>" title="<%=rst("judul")%>" class="w11"><%=rst("judul")%></a></li>
+<%
+		end if
+		
+		i = i + 1
+	rst.movenext
+	loop while not rst.eof
+end if
+rst.close
+set rst=nothing	
+
+conn.close
+set conn=nothing
+%>
+				</ul>
+			</div>
+			<div style="clear:both"></div>

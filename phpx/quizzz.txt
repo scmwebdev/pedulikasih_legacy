@@ -1,0 +1,800 @@
+<item>
+	<artis>Smash</artis>
+	<lagu>I Heart You</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/pVr10YnJ/Smash - I Heart You</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>I Heart You (Acoustic Version)</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/_JfIV_4X/Smash - I Heart You (Acoustic Version)</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Ada Cinta</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/oHatPovG/Smash - Ada Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Gadisku</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/zlO7DuF9/Smash - Gadisku</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Inikah Cinta</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/x_hCuCh7/Smash - Inikah Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Oh Ya</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/y7Qe_KXf/Smash - Oh Ya</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Selalu Bersama</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/NcbkE-ID/Smash - Selalu Bersama</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Akhiri Saja</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/KXUljwty/Smash - Akhiri Saja</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Ahhh</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/upfqYFKY/Smash - Ahhh</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Smash</artis>
+	<lagu>Senyum Semangat</lagu>
+	<album>Self Titled (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/uuHUHgCE/Smash - Senyum Semangat</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Terluka</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/ap3VVB8X/Repvblik - Terluka</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>CLBK (Cinta Lama Bersemi Kembali)</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/c_evuVfR/Repvblik - CLBK (Cinta Lama Bersemi Kembali)</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Harus Berbuat Apalagi</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/vreqeFeN/Repvblik - Harus Berbuat Apalagi</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Aku Rela</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/lZuVwtSR/Repvblik - Aku Rela</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Cobalah Untuk Terbuka</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/9oDVxr8l/Repvblik - Cobalah Untuk Terbuka</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Dilema</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/9GlT6SRe/Repvblik - Dilema</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Sayonara</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/0pWJaAjw/Repvblik - Sayonara</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Butuh Kamu</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/4cdZ3o9J/Repvblik - Butuh Kamu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Apa Adanya</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/cS_Qdk7w/Repvblik - Apa Adanya</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Hidup Dan Cintaku</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/kquOdJ6M/Repvblik - Hidup Dan Cintaku</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Repvblik</artis>
+	<lagu>Tlah Kuberikan (New Version)</lagu>
+	<album>Transisi (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/Fgh_RpWW/Repvblik - Tlah Kuberikan (New Version)</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Tompi</artis>
+	<lagu>Ramadhan Berbagi</lagu>
+	<album>Single Religi Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/vjTjp2Yz/Tompi - Ramadhan Berbagi</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Maudy Ayunda</artis>
+	<lagu>Tiba-Tiba Cinta</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/culL0Tjt/Maudy Ayunda - Tiba-Tiba Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Be Star</artis>
+	<lagu>Just Friend</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/TvM8GKp-/Be Star - Just Friend</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Dasiad</artis>
+	<lagu>Ku Kan Menjagamu</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/qeTfl2Xy/Dasiad - Ku Kan Menjagamu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>D'One</artis>
+	<lagu>Kenapa Sich</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/DBQJDvzn/D\ One - Kenapa Sich</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Inside</artis>
+	<lagu>Keagungan-Mu</lagu>
+	<album>Single Religi Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/DLt4VJ-X/Inside - Keagungan-Mu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Memos</artis>
+	<lagu>Pesan Singkat</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/ZjJUMhSV/Memos - Pesan Singkat</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>NSG Star</artis>
+	<lagu>Alhamdulillah Aku Pulang (Feat. Titiek Puspa)</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/NiE3usoB/NSG Star - Alhamdulillah Aku Pulang (Feat. Titiek Puspa)</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Radioactive</artis>
+	<lagu>Tak Lari Kemana</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/MTm679-u/Radioactive - Tak Lari Kemana</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Shortcut</artis>
+	<lagu>Tak Pernah Sempurna</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/LMCO4Hku/Shortcut - Tak Pernah Sempurna</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Xiruz</artis>
+	<lagu>Bebas Sendiri</lagu>
+	<album>OST Catatan Si Boy</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/JC85D7ET/Xiruz - Bebas Sendiri</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Kejoe</artis>
+	<lagu>Sakit Hati</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/mxpgw8H7/Kejoe - Sakit Hati</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Maia</artis>
+	<lagu>Cuma Gombal</lagu>
+	<album>Single Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/eGBQHhBU/Maia - Cuma Gombal</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Berlian</artis>
+	<lagu>Khilaf</lagu>
+	<album>Single Religi Juli 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/-qb8dH_g/Berlian - Khilaf</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Samsons</artis>
+	<lagu>Self Titled - Full Album 2009</lagu>
+	<album>Samsons (2009)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/jvs8fwjsufon</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Sualudin</artis>
+	<lagu>Udin Sedunia (Indonesia Version)</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/MfaGoWI7/Sualudin - Udin Sedunia (Indonesia Version)</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Syahrini</artis>
+	<lagu>Kau Yang Memilih Aku</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/9TIk0ynf/Syahrini - Kau Yang Memilih Aku</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Zivilia</artis>
+	<lagu>Kokoro No Tomo</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/YrwJULJt/Zivilia - Kokoro No Tomo</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Brosis</artis>
+	<lagu>Narsis Abis</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/HsHnEiU_/Brosis - Narsis Abis</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nikki</artis>
+	<lagu>Dasar Penipu</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/-rECT3rZ/Nikki - Dasar Penipu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Kangen Band</artis>
+	<lagu>Yakin Cintamu Ku Dapat</lagu>
+	<album>Jangan Bertengkar (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/yn-mNy-b/Kangen Band - Yakin Cintamu Ku Dapat</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Kangen Band</artis>
+	<lagu>Sungguh Kejam</lagu>
+	<album>Jangan Bertengkar (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/s2-8XyAe/Kangen Band - Sungguh Kejam</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Kangen Band</artis>
+	<lagu>Beib Aku Dia</lagu>
+	<album>Jangan Bertengkar (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/GIxh_c9N/Kangen Band - Beib Aku Dia</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Praboe</artis>
+	<lagu>Sungguh</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/ch7d-lS3/Praboe - Sungguh</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Rename</artis>
+	<lagu>Yu An Ai</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/3BicnVBR/Rename - Yu An Ai</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Pygme</artis>
+	<lagu>Ah Tau Ah</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/gl8tkiG6/Pygme - Ah Tau Ah</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Jude EP</artis>
+	<lagu>Mauku Maumu</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/P7MJ7g0M/Jude EP - Mauku Maumu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Greatest Hits - Full Album 2003</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/yrx5795f8xkn</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Time Stood Still</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/gjprtr5ygib8</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Straight To Your Heart</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/t622aio6kyza</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>When I See You Smile</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/w41vml1i2vq2</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>So This Is Eden</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/hbh17a0j64pm</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Forget Me Not</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/4kbr7dknnpgy</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Price Of Love</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/z11f3e36nkyr</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>The Time Alone With You</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/8ecstr01s6gy</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Heaven Is A 4 Letter Word</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/vdkokp2wzs6e</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Possession</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/1yh2kf9k7ue1</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Savage Blue</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/alrn123798m1</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Don't Walk Away</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/fxqstt3mqv1o</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Ghost In Your Heart</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/y6d6az1btid7</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Rebel Say A Prayer</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/56y1x23a5r65</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Bad English</artis>
+	<lagu>Pray For Rain</lagu>
+	<album>Greatest Hits (2003)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/md1uw6ghm1f7</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Eminem</artis>
+	<lagu>Another Setback - Full Album 2010</lagu>
+	<album>Another Setback (2010)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/z0rzght1rbk0</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Detik Detik Cinta</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/BS6X1-yL/Nani Soegianto - Detik Detik Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Negeriku Cinta</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/FBc6QaRc/Nani Soegianto - Negeriku Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Pemuda Itu</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/BBl77s7M/Nani Soegianto - Pemuda Itu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Semua Milik Kita</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/U4dsdbXi/Nani Soegianto - Semua Milik Kita</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Mentari</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/BaIwOicc/Nani Soegianto - Mentari</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Luka Itu Masih Ada</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/qpxg7f-w/Nani Soegianto - Luka Itu Masih Ada</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Mengapa Oh Mengapa</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/xy7z--IN/Nani Soegianto - Mengapa Oh Mengapa</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Kembalilah Cinta</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/6TTgLlEX/Nani Soegianto - Kembalilah Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Nani Soegianto</artis>
+	<lagu>Dambaan Jiwa</lagu>
+	<album>Detik-Detik Cinta (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/QR4NuEgD/Nani Soegianto - Dambaan Jiwa</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gampangan Band</artis>
+	<lagu>Mati Karenamu</lagu>
+	<album>Gampangan (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/0EyesMTC/Gampangan Band - Mati Karenamu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gampangan Band</artis>
+	<lagu>Sakit Hati Ini</lagu>
+	<album>Gampangan (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/aazQBg3E/Gampangan Band - Sakit Hati Ini</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gampangan Band</artis>
+	<lagu>Beibz I Love U</lagu>
+	<album>Gampangan (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/nppF-tK3/Gampangan Band - Beibz I Love U</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gampangan Band</artis>
+	<lagu>Disco Jatuh Cinta</lagu>
+	<album>Gampangan (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/ognrCZaV/Gampangan Band - Disco Jatuh Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gampangan Band</artis>
+	<lagu>Kamu, Kamu, Kamu</lagu>
+	<album>Gampangan (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/oLML15vv/Gampangan Band - Kamu, Kamu, Kamu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Gaijin</artis>
+	<lagu>Terserah Gue</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/6HNZeAjz/Gaijin - Terserah Gue</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Putrie</artis>
+	<lagu>Bunga Hati</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/JWLFOzes/Putrie - Bunga Hati</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Electra</artis>
+	<lagu>Kalau Cinta</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/tPKUwjOn/Electra - Kalau Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Diff</artis>
+	<lagu>Tak Lagi</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/CWLCRPZs/Diff - Tak Lagi</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Diff</artis>
+	<lagu>Dalam Pelukanku</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/RURcklTQ/Diff - Dalam Pelukanku</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ayu Azhari</artis>
+	<lagu>Istighfar</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/msGCwOJ9/Ayu Azhari - Istighfar</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Melupakanmu</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/l5nSXJx0/The Face - Melupakanmu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Aku Punya Siapa</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/dx9SNV3X/The Face - Aku Punya Siapa</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Pria Bodoh</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/AeyHu2eD/The Face - Pria Bodoh</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>In The Name Of Love</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/NrIc3i9f/The Face - In The Name Of Love</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Selalu</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/WGp3lq66/The Face - Selalu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Cemburu</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/Cj6w1osL/The Face - Cemburu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>The Face</artis>
+	<lagu>Sepi</lagu>
+	<album>Pria Bodoh (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/A3ybG2mG/The Face - Sepi</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>3 Hati 2 Dunia 1 Cinta</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/-5_VvCy9/Ghaury - 3 Hati 2 Dunia 1 Cinta</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Cinta Milik Bersama</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/Aq5ERo0I/Ghaury - Cinta Milik Bersama</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Janji Abang</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/tl_qjSq6/Ghaury - Janji Abang</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Playgirl</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/HFIy-OIh/Ghaury - Playgirl</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Selalu Menggoda</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/_DycEgTF/Ghaury - Selalu Menggoda</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Takkan Bisa</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/QHqbF08_/Ghaury - Takkan Bisa</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Ghaury</artis>
+	<lagu>Tertipu</lagu>
+	<album>Janji Abang (2011)</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/9dvONL2r/Ghaury - Tertipu</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Rayen (Ex Pasto)</artis>
+	<lagu>Kecanduan</lagu>
+	<album>Single Maret 2011</album>
+	<video></video>
+	<mp3>http://www.rocktainment.com/share/GL0FDqv_/Rayen (Ex Pasto) - Kecanduan</mp3>
+	<lirik></lirik>
+</item>
+<item>
+	<artis>Playbee</artis>
+	<lagu>Racun Cinta</lagu>
+	<album>Titik Terang (2011)</album>
+	<video></video>
+	<mp3>http://www.sharebeast.com/z6ygtqj5hkjn</mp3>
+	<lirik></lirik>
+</item>
