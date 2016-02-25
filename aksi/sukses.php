@@ -1,17 +1,8 @@
-<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
-class Sukses extends CI_Controller {
-	public function __construct()
-	{
-		parent::__construct();
-	}
-	
-	function index()
-	{	
-		redirect('aksi');
-		
-		$data['HTMLPageTitle'] = "Registrasi Berhasil - Akademi Sahur Indonesia";
-		$this->load->view('aksi/header', $data);
-		$this->load->view('aksi/sukses', $data);
-		$this->load->view('aksi/footer', $data);
-	}
-}
+<div class="form-success">
+	<img src="/assets/aksi/images/registrasiberhasil_web.jpg" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+        <area shape="rect" coords="52,26,141,124" href="/aksi" />
+        <area shape="rect" coords="715,35,821,119" href="/" />
+        <area shape="rect" coords="359,554,513,582" href="/assets/aksi/formulir.pdf" />
+    </map>
+</div>

@@ -1,17 +1,6 @@
-<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
-class Ketentuan extends CI_Controller {
-	public function __construct()
-	{
-		parent::__construct();
-	}
-	
-	function index()
-	{	
-		redirect('aksi');
-		
-		$data['HTMLPageTitle'] = "Ketentuan - Akademi Sahur Indonesia";
-		$this->load->view('aksi/header', $data);
-		$this->load->view('aksi/ketentuan', $data);
-		$this->load->view('aksi/footer', $data);
-	}
-}
+<img src="/assets/aksi/images/ketentuan.jpg" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+    <area shape="rect" coords="414,827,556,852" href="/aksi/register" />
+    <area shape="rect" coords="272,846,366,923" href="/" />
+    <area shape="rect" coords="253,32,397,184" href="/aksi" />
+</map>

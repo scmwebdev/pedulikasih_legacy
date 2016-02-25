@@ -1,148 +1,138 @@
-<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
-class Register extends CI_Controller {
-	public function __construct()
-	{
-		parent::__construct();
-	}
+<style>
+.rowtit {display:block;width:100%;font-size:14px;font-weight:bold;padding:10px;margin-top:15px;border-bottom:5px solid #ff9900;}
+.rowsmall {font-size:10px;}
+#formBox table tr td {color:#000}
+#formBox table tr td input[type=text] {border:1px solid #ccc;}
+.error {color:red;font-size:10px;}
+.errors {border:1px solid red;}
+</style>
+<img src="/assets/aksi/images/form.jpg" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+    <area shape="rect" coords="272,846,366,923" href="/" />
+    <area shape="rect" coords="253,32,397,184" href="/aksi" />
+</map>
+<div class="form">
+    
+    <div id="formBox">
+    	<form action="/aksi/register/submit" method="post" enctype="multipart/form-data" name="formRegister" id="formRegister">
+    		<table border="0" cellspacing="0" cellpadding="4">
+    		  <tr>
+    			<td>Nama :</td>
+    			<td><input name="nama_lengkap" type="text" class="required" size="60" maxlength="50" /></td>
+    		  </tr>
+    		  <tr>
+    			<td>Jenis Kelamin :</td>
+    			<td><input type="radio" name="jenis_kelamin" value="L" checked />
+    		Laki-laki &nbsp;&nbsp;&nbsp;&nbsp;
+    		<input type="radio" name="jenis_kelamin" value="P" /> 
+    		Perempuan
+    		</td>
+    		  </tr>
+    		  <tr>
+    			<td>Tempat / Tanggal Lahir :</td>
+    			<td><input name="tempat_lahir" type="text" class="required" size="30" />
+    			&nbsp;/&nbsp;
+    			<input name="tanggal_lahir" type="text" class="required" size="10" id="tanggal_lahir" maxlength="10" /> 
+    			(yyyy/mm/dd)</td>
+    		  </tr>
+    		  <tr>
+    			<td valign="top">Alamat  :</td>
+    			<td><textarea name="alamat" cols="30" rows="3" style="width:100%" class="required" id="alamat"></textarea></td>
+    		  </tr>
+    		  <tr>
+    			<td>Telepon :</td>
+    			<td><input name="no_telepon" type="text" class="required" size="30" maxlength="20" />
+    			  &nbsp;</td>
+    		  </tr>
+    		  <tr>
+    			<td>Email :</td>
+    			<td><input name="email" type="text" class="required" id="email" size="40" maxlength="50" /></td>
+    		  </tr>
+    		  <tr>
+    			<td>Pendidikan :</td>
+    			<td><input name="pendidikan" type="text" class="required" size="60" maxlength="100" id="pendidikan" /></td>
+    		  </tr>
+    		  <tr>
+    		    <td>Hobi :</td>
+    		    <td><input name="hobi" type="text" class="required" size="60" maxlength="100" id="hobi" /></td>
+    	      </tr>
+    		  <tr>
+    		    <td>Keahlian :</td>
+    		    <td><input name="keahlian" type="text" class="required" size="60" maxlength="100" id="pendidikan4" /></td>
+    	      </tr>
+    		  <tr>
+    		    <td>Pengalaman :</td>
+    		    <td><input name="pengalaman" type="text" class="required" size="60" maxlength="100" id="pendidikan3" /></td>
+    	      </tr>
+    		  <tr>
+    			<td valign="top">Security Code :</td>
+    			<td>
+    				<?php
+    				  require_once($this->config->item('ROOTBASEPATH').'phpx/recaptchalib.php');
+    				  echo recaptcha_get_html(RECAPTCHA_PUBLIC_KEY);
+    				?>
+    			</td>
+    		  </tr>
+    		</table>
+    		<br/><br/>
+    	  <p align="center"><input type="submit" name="submitnow" value="Daftar Sekarang" /></p>
+    	</form>
+    </div>
+
+</div>
+<link rel="stylesheet" media="screen" href="/assets/css/ui/dark-hive/jquery.ui.all.css" />
+<script type="text/javascript" src="/assets/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.validate.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.form.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.blockUI.js"></script>
+<script language="javascript">
+$().ajaxStop($.unblockUI); 
+
+$(document).ready(function() {
+    $.datepicker.setDefaults({
+        dateFormat: "yy-mm-dd",
+        changeMonth: true,
+        changeYear: true
+    });
 	
-	function index()
-	{	
-		redirect('aksi');
-		
-		//if (isset($_POST)) {
-			$data['HTMLPageTitle'] = "Registrasi - Akademi Sahur Indonesia";
-			$this->load->view('aksi/header', $data);
-			$this->load->view('aksi/register', $data);
-			$this->load->view('aksi/footer', $data);
-		//} else
-		//	redirect('aksi');
-	}
+    $("#tanggal_lahir").datepicker({
+        changeMonth: true,
+        changeYear: true,
+        yearRange: '1920:2010'
+    });
 	
-	function submit()
-	{		
-		if ($this->input->post('nama_lengkap', TRUE)) {
-			require_once($this->config->item('ROOTBASEPATH').'phpx/recaptchalib.php');
-			$resp = recaptcha_check_answer(RECAPTCHA_PRIVATE_KEY,$_SERVER["REMOTE_ADDR"],$_POST["recaptcha_challenge_field"],$_POST["recaptcha_response_field"]);
-		
-			if (!$resp->is_valid) {
-				echo "The Security Code wasn't entered correctly. Go back and try it again.";
-				exit();
-			}		
-			
-			/*
-			$foto_closeup = $foto_full = $video = '';
-			
-			$foto_dir 	= "/san/static/indosiar.com/aksi/registrasi/";
-			$FILE_MIMES = array('image/jpeg','image/jpg','image/png');         
-			$FILE_EXTS  = array('.jpeg','.jpg','.png');
-			
-			if (!file_exists("/san/static/indosiar.com/aksi")) mkdir("/san/static/indosiar.com/aksi");
-			if (!file_exists("/san/static/indosiar.com/aksi/registrasi")) mkdir("/san/static/indosiar.com/aksi/registrasi");
-			
-			if ($_FILES['foto_closeup']) {
-				$file_type 		= $_FILES['foto_closeup']['type']; 
-				$foto_closeup 	= $_FILES['foto_closeup']['name'];
-				$file_size 		= $_FILES['foto_closeup']['size'];
-				$foto_ext 		= strtolower(substr($foto_closeup,strrpos($foto_closeup,".")));
-				$temp_name 		= $_FILES['foto_closeup']['tmp_name'];
-				$foto_closeup 	= str_replace("\\","",$foto_closeup);
-				$foto_closeup 	= str_replace("'","",$foto_closeup);
-				$foto_path 		= $foto_dir.$foto_closeup;
-	
-				if ($foto_closeup == "") die("File foto harus tersedia");
-
-				if (!in_array($file_type, $FILE_MIMES) && !in_array($foto_ext, $FILE_EXTS) ) {
-					echo "Sorry, $foto_closeup($file_type) is not allowed to be uploaded";
-					exit();  	
-				}
+	var v = jQuery("#formRegister").validate({
+	    ignore: "",
+		rules: {
+			email: { required: true, email: true },
+			tanggal_lahir: { required: true, dateISO: true }
+		},
+		submitHandler: function(form) {
+			$("#formBox").block();
+			jQuery(form).ajaxSubmit({
+                beforeSubmit: function(a,f,o) {
+                },
+                success: function(data) {
+					if (data.substring(0,6) == "SUKSES") {
+						var namax = document.formRegister.nama_lengkap.value;
+						var emailx = document.formRegister.email.value;
+						$("#formBox").html('<div style="font-family:\'Times New Roman\', Times, serif; font-size:24px; font-weight:bold;padding:20px;text-align:center;"><p>&nbsp;</p><p>Hallo '+namax+',<br/><br/>Registrasi Berhasil.<br/>Download Formulir dan bawa kembali pada saat pendaftaran ulang Audisi Aksi<br/>Tanggal 19 - 20 Juni 2013 pukul 07.00 di<br/><br/><b>STUDIO 5 INDOSIAR</b><br/>Jalan Damai 11, Daan Mogot<br/>Jakarta Barat<br/><br/><b>Follow Twitter <a href="https://twitter.com/aksiindosiar" target="_blank">@aksiindosiar.com</a></b><br/><br/><a href="/assets/aksi/formulir.pdf"><b>DOWNLOAD FORMULIR</b></a></p><p>&nbsp;</p><p>&nbsp;</p></div>');
+						//window.location.href = '/aksi/sukses';
+					} else {
+						alert("Error:\n" + data);
+						Recaptcha.reload();
+					}
 					
-				if ($file_size > 8388608) {
-					echo "Ukuran file $foto_closeup lebih dari 8 MB";
-					exit();  	
-				}
-
-				$foto_closeup	= time().$foto_closeup;
-				$foto_path 		= $foto_dir.$foto_closeup;
-					
-				$result 		= move_uploaded_file($temp_name, $foto_path);
-			}
-			
-			if ($_FILES['foto_full']) {
-				$file_type 	= $_FILES['foto_full']['type']; 
-				$foto_full 	= $_FILES['foto_full']['name'];
-				$file_size 	= $_FILES['foto_full']['size'];
-				$foto_ext 	= strtolower(substr($foto_full,strrpos($foto_full,".")));
-				$temp_name 	= $_FILES['foto_full']['tmp_name'];
-				$foto_full 	= str_replace("\\","",$foto_full);
-				$foto_full 	= str_replace("'","",$foto_full);
-				$foto_path 	= $foto_dir.$foto_full;
-	
-				if ($foto_full == "") die("File foto harus tersedia");
-
-				if (!in_array($file_type, $FILE_MIMES) && !in_array($foto_ext, $FILE_EXTS) ) {
-					echo "Sorry, $foto_full($file_type) is not allowed to be uploaded";
-					exit();  	
-				}
-
-				if ($file_size > 8388608) {
-					echo "Ukuran file $foto_full lebih dari 8 MB";
-					exit();  	
-				}
-
-				$foto_full 	= time().$foto_full;
-				$foto_path 	= $foto_dir.$foto_full;
-
-				$result 	= move_uploaded_file($temp_name, $foto_path);
-			}
-			
-			$FILE_MIMES = array('video/mp4','video/3gp');         
-			$FILE_EXTS  = array('.mp4','.3gp');
-		
-			if ($_FILES['video']) {
-				$file_type 	= $_FILES['video']['type']; 
-				$video 		= $_FILES['video']['name'];
-				$file_size 	= $_FILES['video']['size'];
-				$foto_ext 	= strtolower(substr($video,strrpos($video,".")));
-				$temp_name 	= $_FILES['video']['tmp_name'];
-				$video 		= str_replace("\\","",$video);
-				$video 		= str_replace("'","",$video);
-				$foto_path 	= $foto_dir.$video;
-	
-				if ($video == "") die("File video harus tersedia");
-
-				if (!in_array($file_type, $FILE_MIMES) && !in_array($foto_ext, $FILE_EXTS) ) {
-					echo "Sorry, $video($file_type) is not allowed to be uploaded";
-					exit();  	
-				}
-					
-				if ($file_size > 10485760) {
-					echo "Ukuran file $video lebih dari 10 MB";
-					exit();  	
-				}
-					
-				$video 		= time().$video;
-				$foto_path 	= $foto_dir.$video;
-					
-				$result 	= move_uploaded_file($temp_name, $foto_path);
-			}
-			
-			if ($foto_closeup == '' || $foto_full == '') die("Semua foto harus diunggah");
-			if ($video == '') die("Video harus diunggah");*/
-			
-			$data = array();
-			
-			foreach($this->db->list_fields('aksi_registrasi') as $row) if (isset($_POST[$row])) $data[$row] = trim($_POST[$row]);
-			if (trim($_POST['ukuran_baju_lainnya']) != '') $data['ukuran_baju'] = trim($_POST['ukuran_baju_lainnya']);
-			
-			$data['tanggal'] 		= date("Y-m-d H:i:s");
-			
-			//$data['foto_closeup'] 	= $foto_closeup;
-			//$data['foto_full'] 		= $foto_full;
-			//$data['video'] 			= $video;
-			
-			$this->db->insert('aksi_registrasi', $data);
-			
-			echo 'SUKSES';
+					$("#formBox").unblock();
+                }
+			});
 		}
-	}
-}
+	});
+	
+    $('.number').each(function() {
+        $(this).rules('add', {
+            number: true
+        });
+    });
+});
+</script>
